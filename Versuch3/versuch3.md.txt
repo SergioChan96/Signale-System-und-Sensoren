@@ -1,0 +1,51 @@
+# versuch 3
+
+Sergio Chan
+
+Erik Hoffmann
+
+## Aufgabe 2
+
+kleiner Lautsprecher
+
+| Freq | B Amplitude (speaker) | A Amplitude (mic) | delta |
+| 100 Hz | 1,559V | 14,41mV | 3,701ms |
+| 200 Hz | 1.49V | 22.27mV | 2,884ms |
+| 300 Hz | 1,507V | 31,01mV | 2,204ms |
+| 400 Hz | 1,49V | 54,6mV | 1,85ms |
+| 500 Hz | 1.49V | 116mV | 1,769ms |
+| 700 Hz | 1,507V | 54,07mV | 1,605ms |
+| 850 Hz | 1,49V | 47,96mV | 1,306ms |
+| 1000 Hz | 1,49V | 45,35mV | 1,197ms |
+| 1200 Hz | 1,49V | 33,14mV | 1,034ms |
+| 1500 Hz | 1,49V | 34,88mV | 1,524ms |
+| 1700 Hz | 1,49V | 31,39mV | 1,306ms |
+| 2000 Hz | 1,49V | 35,82mV | 1,17ms |
+| 3000 Hz | 1,49V | 40,99mV | 1,143ms |
+| 4000 Hz | 1,49V | 30,52mV | 1,129ms |
+| 5000 Hz | 1,49V | 34,01mV | 1,163ms |
+| 6000 Hz | 1,519V | 13,95mV | 1,115ms |
+| 10000 Hz | 1,519V | 20,93mV | 1,053ms |
+
+
+
+großer Lautsprecher
+
+| Freq | B Amplitude | A Amplitude | delta |
+| 100 Hz | 1,519V | 71,52mV | 4,917ms |
+| 200 Hz | 1,519V | 174,3mV | 4,4ms |
+| 300 Hz | 1,519V | 130,7mV | 3,366ms |
+| 400 Hz | 1,159V | 99,33mV | 2,713ms |
+| 500 Hz | 1,159V | 81,9mV | 2,251ms |
+| 700 Hz | 1,519V | 64,47mV | 1,679ms |
+| 850 Hz | 1,519V | 64,47mV | 1,326ms |
+| 1000 Hz | 1,519V | 73,19mV | 1,175ms |
+| 1200 Hz | 1,519V | 64,47mV | 1,01ms |
+| 1500 Hz | 1,519V | 67,96mV | 0,8314ms |
+| 1700 Hz | 1,519V | 64,47mV | 0,7285ms |
+| 2000 Hz | 1,519V | 67,96mV | 0,6461ms |
+| 3000 Hz | 1,519V | 74,93mV | 0,4952ms |
+| 4000 Hz | 1,519V | 50,54mV | 0,3991ms |
+| 5000 Hz | 1,519V | 38,33mV | 0,3579ms |
+| 6000 Hz | 1,519V | 33,1mV | 0,3030ms |
+| 10000 Hz | 1,477V |36,59mV | 0,2378ms |
